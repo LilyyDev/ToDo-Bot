@@ -5,7 +5,7 @@
 	"info3": "             Timer format: 'SECONDS MINUTES HOUR', ignore the extra stars unless you know how to use Cron.             ",
 	"info4": "-----------------------------------------------------------------------------------------------------------------------",
 
-	"token": "OTYyMzQ4MTEzNjk0MTcxMjE2.YlGOhQ.0TOlPvcBWqCacfNwYhGZl6lHat4",
+	"token": "your-token-here",
 	"ping": "True",
 	"iplog": "True",
 	"ping_timer": "30 28 15 * * *",
