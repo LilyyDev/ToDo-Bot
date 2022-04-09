@@ -1,0 +1,16 @@
+{
+	"info0": "-----------------------------------------------------------------------------------------------------------------------",
+	"info1": "                                                   READ THIS FIRST                                                     ",
+	"info2": "                 Only accepted value for 'ping' and 'iplog' is 'True', anything else will act as false.                ",
+	"info3": "             Timer format: 'SECONDS MINUTES HOUR', ignore the extra stars unless you know how to use Cron.             ",
+	"info4": "-----------------------------------------------------------------------------------------------------------------------",
+
+	"token": "OTYyMzQ4MTEzNjk0MTcxMjE2.YlGOhQ.0TOlPvcBWqCacfNwYhGZl6lHat4",
+	"ping": "True",
+	"iplog": "True",
+	"ping_timer": "30 28 15 * * *",
+	"iplog_timer": "30 28 15 * * *",
+	"discord_server": "925481584583389204",
+	"ping_channel": "960477265521680424",
+	"iplog_channel": "960643039284584499"
+}
