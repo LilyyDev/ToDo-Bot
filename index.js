@@ -17,7 +17,7 @@ client.once('ready', () => {
         const guild = client.guilds.cache.get(discord_server.toString());
         const channel = guild.channels.cache.get(ping_channel.toString());
         if(ping == "True"){
-            channel.send('Todo Reminder ||<@441666718507597834>||');
+            channel.send('Todo Reminder ||<@here>||');
         }
     });
     todoPing.start()
